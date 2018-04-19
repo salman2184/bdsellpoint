@@ -1,0 +1,5 @@
+{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=SALMAN-PC;Initial Catalog=NopTestDB;Integrated Security=True;Persist Security Info=False",
+  "RawDataSettings": {}
+}
